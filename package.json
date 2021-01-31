@@ -1,7 +1,7 @@
 {
   "name": "hexo-prism-copy-button",
   "description": "Create a copy button for every code block generated from prism syntax highlighting engine",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "jonathan-santos",
   "repository": {

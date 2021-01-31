@@ -1,6 +1,6 @@
 # Hexo Prism Copy Button
 
-> automatically load hexo code highlighting style, support highlight and prismjs
+> Create a copy button for every code block generated from prism syntax highlighting engine
 
 
 ## install
