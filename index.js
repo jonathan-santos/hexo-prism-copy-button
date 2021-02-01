@@ -9,7 +9,7 @@ hexo.extend.filter.register('after_post_render', data => {
     
     data.content += `
         <script>
-            document.querySelectorAll("button").forEach(function(button) {
+            document.querySelectorAll("pre button").forEach(function(button) {
                 button.hidden = false
                 button.addEventListener("click", function(e) {
                     var range = document.createRange()
